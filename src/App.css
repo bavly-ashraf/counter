@@ -1,0 +1,20 @@
+Button {
+  background-color: red;
+  border-color: rgb(255, 0, 157);
+  color: white;
+  margin: 2px;
+}
+
+.div1{
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.Whysoserious{
+color : blue;
+
+}
+
+input{
+  border-color: violet;
+}
